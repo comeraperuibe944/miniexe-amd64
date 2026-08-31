@@ -1,4 +1,4 @@
-# MiniEXE-AMD64 — Handcrafted Minimal Windows PE64 Executable
+# miniexe-amd64
 
 <p align="center">
   <img src="https://img.shields.io/badge/Architecture-x86--64%20%2F%20AMD64-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
